@@ -1,5 +1,5 @@
 import unittest
-  from src.app import greet
+from src.app import greet
 
 class TestGreeting(unittest.TestCase):
   def test_greeting(self):
